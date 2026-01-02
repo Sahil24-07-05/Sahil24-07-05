@@ -2,13 +2,12 @@
 
 🚀 MERN Stack Developer (Backend-focused)  
 🎓 MCA Student  
+🤖 Building a strong foundation in AI  
+🧠 Currently working on a real-world project
 🛠 Tech Stack:
 - Frontend: React
 - Backend: Node.js, Express
 - Database: MongoDB  
-
-🤖 Building a strong foundation in AI  
-🧠 Currently working on a real-world project
 
 ### 🔥 What I'm working on
 - MERN backend & APIs
