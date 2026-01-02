@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi 👋 I'm Sahil Sabarwal
 
-<!--
-**Sahil24-07-05/Sahil24-07-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring MERN Stack Developer  
+🎓 MCA Student | Backend-focused  
+🛠️ Tech: React, Node.js, Express, MongoDB  
+🤖 Learning AI basics  
+🧠 Currently working on a real-world project
 
-Here are some ideas to get you started:
+### 🔥 What I'm working on
+- MERN backend & APIs
+- Improving communication skills
+- Building production-ready projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/sahil-sabarwal24/
+- Email: sabarwalsahil24@gmail.com
