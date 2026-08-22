@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Sahil Sabarwal — MERN Stack Developer 
 
-🚀 MERN Stack Developer (Backend-focused)  
+🚀 MERN Stack Developer  
 🎓 MCA Student  
 🛠 Tech Stack :
 - Frontend: React
